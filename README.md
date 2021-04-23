@@ -2,4 +2,4 @@
 
 >> The method used for making this was designed by Brad Traversy and made by Chris Clements following a tutorial on Udemy.
 
->> The live server link to view this on GitHub Pages is: https://github.com/clementschris/dad-jokes.git
+>> The live server link to view this on GitHub Pages is: https://clementschris.github.io/dad-jokes/
